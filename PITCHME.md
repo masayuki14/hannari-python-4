@@ -10,12 +10,17 @@
 ### @masayuki14
 
 - はんなりPython運営
+- Python歴 4ヶ月
 - 主夫
 - スプーキーズアンバサダー
 
 ---
 
-## Pytnoライセンス
+## PythonライセンスとOSS開発への参加
+
+---
+
+## Pythonライセンス
 
 ### PSF LICENSE AGREEMENT FOR PYTHON 3.6.4
 
@@ -23,9 +28,15 @@
 
 ---
 
-## Pytnoライセンス
+## Pythonライセンス
 
-### GPL互換
+### バージョンによって少しずつ異なる
+
+---
+
+## Pythonライセンス
+
+### GPLと互換性がある
 
 ---
 
@@ -45,6 +56,19 @@
 
 ---
 
+## だれでもPythonの開発に
+## 参加できる
+
+---
+
+## Pythonの開発に参加しよう
+
+---
+
 ## OSSの開発に参加しよう
 
 ---
+
+## [OSS Gateの紹介](https://slide.rabbit-shocker.org/authors/oss-gate/introduction-japanese/about-oss-gate.pdf)
+
+
