@@ -10,9 +10,9 @@
 ### @masayuki14
 
 - はんなりPython運営
-- Python歴 4ヶ月
+- [OSS Gate京都運営](https://oss-gate.github.io/)
 - 主夫
-- スプーキーズアンバサダー
+- [スプーキーズアンバサダー](http://spookies.co.jp/)
 
 ---
 
